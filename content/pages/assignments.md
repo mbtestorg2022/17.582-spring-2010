@@ -14,12 +14,57 @@ Position Papers
 
 Students are expected to write four position papers, each two pages long. These papers should be a focused critique of the major argument of a reading. Students are encouraged to refer back to previous course materials when appropriate. The primary purpose of the paper is to enhance discussion so students are encouraged to elaborate on more controversial issues and be ready to defend their own positions in class.
 
-| PAPER # | SECTION |
-| --- | --- |
-| Paper 1 | Covers section I: Conventional Wisdom and Basic Variables |
-| Paper 2 | Covers section II.A: Origins of Civil War |
-| Paper 3 | Covers section II.B: Course of Civil War |
-| Paper 4 | Covers section II.C: Termination and Aftermath 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PAPER #
+{{< thclose >}}
+{{< thopen >}}
+SECTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+Covers section I: Conventional Wisdom and Basic Variables
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+Covers section II.A: Origins of Civil War
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3
+{{< tdclose >}}
+{{< tdopen >}}
+Covers section II.B: Course of Civil War
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 4
+{{< tdclose >}}
+{{< tdopen >}}
+Covers section II.C: Termination and Aftermath
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Comparative Paper
 -----------------
