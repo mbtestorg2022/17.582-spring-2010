@@ -67,7 +67,7 @@ Thucydides. "The Dispute over Corcyra," "Pericles Funeral Oration," "Revolt at M
 
 Fearon, James. "[Iraq: Democracy or Civil War?](http://cisac.stanford.edu/publications/iraq_democracy_or_civil_war/)" Testimony to the U.S. House of Representatives, Committee on Government Reform, Subcommittee on National Security, Emerging Threats, and International Relations. September 15, 2006.
 
-Kalyvas, Stathis. "'New' and 'Old' Civil Wars. A Valid Distinction?" _World Politics_ 54 (2001): 99-118. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.ncl.ac.uk/media/wwwnclacuk/schoolofhistoryclassicsandarchaeology/Kalyvas%20New%20and%20Old%20Civil%20Wars.pdf))
+Kalyvas, Stathis. "'New' and 'Old' Civil Wars. A Valid Distinction?" _World Politics_ 54 (2001): 99-118. ([PDF](https://www.ncl.ac.uk/media/wwwnclacuk/schoolofhistoryclassicsandarchaeology/Kalyvas%20New%20and%20Old%20Civil%20Wars.pdf))
 
 
 {{< tdclose >}}
@@ -85,7 +85,7 @@ The World Bank Approach to Civil War
 
 \[Conflict Trap\]
 
-Sambanis, Nicholas. "Expanding Economic Models of Civil War Using Case Studies." _Perspectives on Politics_ 2, no. 2 (2004): 259-280. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://politics.as.nyu.edu/docs/IO/4744/ns1110.pdf))
+Sambanis, Nicholas. "Expanding Economic Models of Civil War Using Case Studies." _Perspectives on Politics_ 2, no. 2 (2004): 259-280. ([PDF](http://politics.as.nyu.edu/docs/IO/4744/ns1110.pdf))
 
 
 {{< tdclose >}}
@@ -107,7 +107,7 @@ Security Dilemmas
 {{< tdopen >}}
 
 
-Posen, Barry. "The Security Dilemma and Ethnic Conflict." _Survival_ 35, no.1 (1993): 27-47. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](http://web.mit.edu/ssp/people/posen/security-dilemma.pdf))
+Posen, Barry. "The Security Dilemma and Ethnic Conflict." _Survival_ 35, no.1 (1993): 27-47. ([PDF - 1.3MB](http://web.mit.edu/ssp/people/posen/security-dilemma.pdf))
 
 Snyder, Jack, and Robert Jervis. "Civil War and the Security Dilemma." In _Civil Wars, Insecurity, and Intervention_. Edited by Barbara Walter, and Jack Snyder. New York, NY: Columbia University Press, 1999, pp. 15-37. ISBN: 9780231116275.
 
@@ -129,11 +129,11 @@ Identity Issues: Thugs and Ethnic Groups, Victims and Saviors
 {{< tdopen >}}
 
 
-Mueller, John. "The Banality of 'Ethnic War.'" _International Security_ 25, no. 1 (2000): 42-70. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://politicalscience.osu.edu/faculty/jmueller/is2000.pdf))
+Mueller, John. "The Banality of 'Ethnic War.'" _International Security_ 25, no. 1 (2000): 42-70. ([PDF](https://politicalscience.osu.edu/faculty/jmueller/is2000.pdf))
 
 Kaufman, Stuart J. _Modern Hatreds: The Symbolic Politics of Ethnic War_. Ithaca, NY: Cornell University Press, 2001, chapters 1 and 2. ISBN: 9780801487361.
 
-Sambanis, Nicolas. "Do Ethnic and Nonethnic Civil Wars Have the Same Causes?" _Journal of Conflict Resolution_ 45, no. 4 (2001): 259-82. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.yale.edu/macmillan/ocvprogram/licep/3/sambanis/EthnicWarPaper.pdf))
+Sambanis, Nicolas. "Do Ethnic and Nonethnic Civil Wars Have the Same Causes?" _Journal of Conflict Resolution_ 45, no. 4 (2001): 259-82. ([PDF](http://www.yale.edu/macmillan/ocvprogram/licep/3/sambanis/EthnicWarPaper.pdf))
 
 Bob, Clifford. _The Marketing of Rebellion: Insurgents, Media, and International Activism_. Cambridge, UK: Cambridge University Press, 2005, chapters 1 and 2. ISBN: 9780521607865.
 
@@ -164,7 +164,7 @@ Collective Action and Identity
 
 Wood, Elisabeth J. _Insurgent Collective Action and Civil War in El Salvador_. Cambridge, UK: Cambridge University Press, 2003, chapters 1 and 8. ISBN: 9780521010504.
 
-Fearon, James D., and David Laitin. "Violence and the Social Construction of Ethnic Identity." _International Organization_ 54, no. 4 (2000): 845-877. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://web.stanford.edu/group/fearon-research/cgi-bin/wordpress/wp-content/uploads/2013/10/Violence-and-the-Social-Construction-of-Ethnic-Identity.pdf))
+Fearon, James D., and David Laitin. "Violence and the Social Construction of Ethnic Identity." _International Organization_ 54, no. 4 (2000): 845-877. ([PDF](https://web.stanford.edu/group/fearon-research/cgi-bin/wordpress/wp-content/uploads/2013/10/Violence-and-the-Social-Construction-of-Ethnic-Identity.pdf))
 
 
 {{< tdclose >}}
